@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width:100%;
+}
+p{
+    background-color: palevioletred;
+    color: yellow;
+    
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(180, 138, 148, 0.918);
+}
+#car1{
+    height:100px;
+    width: 150px;
+    background-color: red;
+    position: absolute;
+    top: 30%; 
+}
+#car2{
+    height:100px;
+    width: 150px;
+    background-color: blue;
+    
+}
+#car3{
+    height:100px;
+    width: 150px;
+    background-color: orange;
+    
+}
